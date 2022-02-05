@@ -1,2 +1,5 @@
-Msg 208, Level 16, State 1, Server sql-remote_server, Line 1
-Invalid object name 'prova.tab1'.
+JSON_F52E2B61-18A1-11d1-B105-00805F49916B                                                                                                                                                                                                                       
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[{"tab1_id":1,"prova.dbo.tab2":[{"tab2_id":1}]},{"tab1_id":2,"prova.dbo.tab2":[{"tab2_id":1}]},{"tab1_id":3,"prova.dbo.tab2":[{"tab2_id":1}]},{"tab1_id":4,"prova.dbo.tab2":[{"tab2_id":1}]},{"tab1_id":5,"prova.dbo.tab2":[{"tab2_id":1}]},{"tab1_id":1,"prova.
+
+(1 rows affected)
